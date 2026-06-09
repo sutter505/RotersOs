@@ -18,7 +18,7 @@ header{
     padding:20px;
     text-align:center;
     background:#111827;
-}
+
 .logo{
     font-size:40px;
     font-weight:bold;
